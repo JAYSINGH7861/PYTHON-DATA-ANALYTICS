@@ -22,6 +22,3 @@ try:
     st.success(f"result:{result}")
 except Exception as e:
     st.error(f"error:{e}")
-
-
-    
